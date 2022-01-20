@@ -17,5 +17,5 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src=https://raw.githubusercontent.com/DebarshiSonowal/DebarshiSonowal/83df499c202cdbef1ba2afacb0272eb68f25b2a4/Debarshi%20Sonowal.png" alt="stacks"/>
+<img src=https://raw.githubusercontent.com/DebarshiSonowal/DebarshiSonowal/blob/master/Debarshi%20Sonowal.png" alt="stacks"/>
 </h3>
