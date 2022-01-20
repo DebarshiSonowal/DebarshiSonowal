@@ -5,7 +5,7 @@ I'm Debarshi, a self-motivated tech enthusiast and mobile application developer.
 </p>
 
 <h4 align="center">
-💻 mobile application developer <a href="https://webarbiter.in">Web Arbiter</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://www.linkedin.com/in/debarshisonowal">@debarshisonowal_</a>
+💻 mobile application developer <a href="https://webarbiter.in">Web Arbiter</a> | 💬 connect <a href="https://www.linkedin.com/in/debarshisonowal">@debarshisonowal_</a>
 </h4>
 <p  align="center">
 <a href="https://elastic-yalow-dd69dc.netlify.app/">https://elastic-yalow-dd69dc.netlify.app/</a>
