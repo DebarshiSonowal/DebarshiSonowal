@@ -26,6 +26,4 @@ My Tech Stacks
 
 ### :fire: My Stats :
 
-<h3>
- <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)" alt=""/>
- </h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DebarshiSonowal)](https://git.io/streak-stats)
