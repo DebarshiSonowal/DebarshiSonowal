@@ -24,5 +24,8 @@ My Tech Stacks
 <img align="center" src="https://komarev.com/ghpvc/?username=DebarshiSonowal&style=flat-square&color=blue" alt=""/>
 </h3>
 
-<a href="![Debarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebarshiSonowal&show_icons=true&theme=radical)">
-</a>
+### :fire: My Stats :
+
+<h3>
+ <img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)" alt=""/>
+ </h3>
