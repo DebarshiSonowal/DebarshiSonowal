@@ -19,8 +19,10 @@ My Tech Stacks
 <h3 align="center">
 <img src="https://github.com/DebarshiSonowal/DebarshiSonowal/blob/e7909cb6823edfacab275e8becb0aca45efcca9e/Debarshi_Sonowal.png" alt="stacks"/>
 </h3>
-
+ 
+<h3 align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=DebarshiSonowal&style=flat-square&color=blue" alt=""/>
+</h3>
 
 <a href="![Debarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebarshiSonowal&show_icons=true&theme=radical)">
 </a>
