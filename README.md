@@ -26,4 +26,4 @@ My Tech Stacks
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DebarshiSonowal)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DebarshiSonowal&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&sideNums=DDDDDD&sideLabels=CACACA&currStreakNum=DD2727&dates=9C9C9C)](https://git.io/streak-stats)
